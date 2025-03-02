@@ -1,9 +1,5 @@
 # Amazon-Review-Analyzer
 
-==========================================
-   Amazon Review Sentiment Analyzer
-==========================================
-
 This project is a command-line tool for analyzing the sentiment of Amazon product reviews using either the VADER or RoBERTa model. It allows you to analyze a dataset of reviews, filter reviews based on sentiment, and export the results.
 
 -------------------------
